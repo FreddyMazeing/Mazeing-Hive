@@ -3,7 +3,7 @@ import call from "../assets/call.png";
 import Instagram from "../assets/Instagram.png";
 import linkedin from "../assets/linkedin.png";
 import whatsup from "../assets/whatsup.png";
-import mazeingshoreel from "../assets/mazeingshoreel.mp4";
+import mazeingshoreel from "../assets/mazeingshoreel.webm";
 
 const Footet = () => {
   return (
