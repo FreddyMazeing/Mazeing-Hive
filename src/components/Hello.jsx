@@ -1,5 +1,5 @@
 import React from "react";
-import mazeingshoreel from "../assets/mazeingshoreel.mp4";
+import mazeingshoreel from "../assets/mazeingshoreel.webm";
 
 const Hello = () => {
   return (
