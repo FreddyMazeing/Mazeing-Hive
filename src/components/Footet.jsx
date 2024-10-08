@@ -9,7 +9,7 @@ const Footet = () => {
   return (
     <div className="max-w-full  flex items-center justify-center mx-4 my-20">
       <div className="max-w-full  space-y-4 flex flex-col items-center justify-start md:justify-center ">
-        {/* Graphics Design */}
+        {/* Graphics Designs */}
         <div className="flex flex-col my-20 items-center justify-center">
           <h1 className="text-2xl font-semibold  text-[#003b95]">
             Motion Graphics Design
