@@ -47,7 +47,7 @@ const Websites = () => {
             </a>
             {/* Second */}
             <a
-              href="https://www.tendernet.co.za/"
+              href="https://tender-net-web.vercel.app/"
               target="_blank"
               className="relative flex items-center justify-center"
             >
