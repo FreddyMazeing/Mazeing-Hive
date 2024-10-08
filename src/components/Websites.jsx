@@ -40,7 +40,9 @@ const Websites = () => {
                 href=""
                 src={Z1}
                 alt="Website Project_1"
-                className="w-[400px] cursor-pointer h-72 object-cover rounded-2xl shadow-xl shadow-black/50 duration-200 ease-in-out hover:scale-105"
+                className="w-[400px] cursor-pointer h-72 object-cover
+                 rounded-2xl shadow-md shadow-black duration-200
+                  ease-in-out hover:scale-105"
               />
             </a>
             {/* Second */}
@@ -60,7 +62,7 @@ const Websites = () => {
               <img
                 src={Z2}
                 alt="Website Project_1"
-                className="w-[400px] h-72 cursor-pointer object-cover rounded-2xl shadow-xl shadow-black/50 duration-200 ease-in-out hover:scale-105"
+                className="w-[400px] h-72 cursor-pointer object-cover rounded-2xl shadow-md shadow-black/50 duration-200 ease-in-out hover:scale-105"
               />
             </a>
             {/* Third */}
@@ -80,7 +82,7 @@ const Websites = () => {
               <img
                 src={Z3}
                 alt="Website Project_1"
-                className="w-[400px] h-72 cursor-pointer object-cover rounded-2xl shadow-xl shadow-black/50 duration-200 ease-in-out hover:scale-105"
+                className="w-[400px] h-72 cursor-pointer object-cover rounded-2xl shadow-md shadow-black/50 duration-200 ease-in-out hover:scale-105"
               />
             </a>
             {/* Fourth */}
@@ -100,7 +102,7 @@ const Websites = () => {
               <img
                 src={Z4}
                 alt="Website Project_1"
-                className="w-[400px] h-72 object-cover cursor-pointer rounded-2xl shadow-xl shadow-black/50 duration-200 ease-in-out hover:scale-105"
+                className="w-[400px] h-72 object-cover cursor-pointer rounded-2xl shadow-md shadow-black duration-200 ease-in-out hover:scale-105"
               />
             </a>
           </div>

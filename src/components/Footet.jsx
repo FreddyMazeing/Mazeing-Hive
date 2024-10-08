@@ -29,7 +29,9 @@ const Footet = () => {
             className="  rounded-sm "
           ></video>
         </div>
-        <h1 className="text-2xl font-semibold  text-[#003b95]">Contacts</h1>
+        <h1 className=" text-2xl font-semibold md:pt-20  text-[#003b95]">
+          Contacts
+        </h1>
         <h2>Where You Can Find Out More Of My Work</h2>
         <div className="grid grid-cols-4 gap-6">
           <a
