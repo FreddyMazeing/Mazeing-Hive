@@ -13,7 +13,7 @@ const Websites = () => {
        flex-col container items-center mx-4 md:mx-20 justify-center"
         >
           <h1 className="text-2xl font-semibold  text-[#003b95] ">
-            Latest Projects
+            Web Development
           </h1>
           <p className="text-center max-w-xl text-gray-500 mt-4">
             Explore my latest web design and development creations. From sleek

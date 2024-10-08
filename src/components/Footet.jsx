@@ -9,6 +9,16 @@ const Footet = () => {
   return (
     <div className="max-w-full  flex items-center justify-center mx-4 my-20">
       <div className="max-w-full  space-y-4 flex flex-col items-center justify-start md:justify-center ">
+        {/* Graphics Design */}
+        <div className="flex flex-col my-20 items-center justify-center">
+          <h1 className="text-2xl font-semibold  text-[#003b95]">
+            Motion Graphics Design
+          </h1>
+          <p className="text-center px-4 md:max-w-xl mt-4 text-gray-500 ">
+            Explore my latest digital graphics designs. From sleek interfaces to
+            dynamic functionalities, discover how I bring ideas to life.
+          </p>
+        </div>
         <div className="md:max-w-[800px]  rounded-xl ">
           <video
             src={mazeingshoreel}
@@ -16,7 +26,7 @@ const Footet = () => {
             loop
             muted
             controls
-            className="  rounded-xl "
+            className="  rounded-sm "
           ></video>
         </div>
         <h1 className="text-2xl font-semibold  text-[#003b95]">Contacts</h1>
