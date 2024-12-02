@@ -12,12 +12,12 @@ const Billbord = () => {
         <img
           src={billboardad}
           alt=""
-          className="w-full h-[152px] object-cover object-center rounded-xl"
+          className="w-full h-[152px] hover:scale-110 duration-200 ease-in-out object-cover object-center rounded-xl"
         />
         <img
           src={billboardad2}
           alt=""
-          className="w-full h-[300px] object-cover rounded-xl"
+          className="w-full h-[300px] hover:scale-110 duration-200 ease-in-out object-cover rounded-xl"
         />
       </div>
     </div>
