@@ -18,7 +18,7 @@ const Hello = () => {
               className="w-full h-full object-cover rounded-xl"
             ></video>
           </div>
-          <div className="absolute inset-0 bg-gradient-to-b from-white/100 "></div>
+
           <div className="z-20 rounded-b-xl  bg-gradient-to-b from-white/100 to-white/10 p-4 backdrop-blur-sm  flex flex-col items-center justify-center text-center">
             <h1 className="text-sm text-center text-[#003b95] font-semibold ">
               Hello there, I'm
