@@ -15,7 +15,7 @@ const Footet = () => {
             Motion Graphics Design
           </h1>
           <p className="text-center px-4 md:max-w-xl mt-4 text-gray-500 ">
-            Explore my latest digital graphics designs. From sleek interfaces to
+            Explore my latest digital graphics design. From sleek interfaces to
             dynamic functionalities, discover how I bring ideas to life.
           </p>
         </div>

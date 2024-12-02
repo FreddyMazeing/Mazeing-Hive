@@ -32,112 +32,69 @@ const Graphics = () => {
       {/* First grid  */}
       <div className="grid border border-[#003b95]/20 p-6 md:grid-cols-4 gap-6 mx-2 ">
         <div className=" relative group shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-80 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#fea342]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
-          <img src={Ads1} alt="normadicchic" className="rounded-sm w-72" />
+          <img
+            src={Ads1}
+            alt="normadicchic"
+            className="hover:scale-110 duration-200 ease-in-out rounded-sm w-72"
+          />
         </div>
         <div className=" relative group shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-80 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#fea342]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
-          <img src={Ads2} alt="normadicchic" className="rounded-sm w-72" />
+          <img
+            src={Ads2}
+            alt="normadicchic"
+            className="hover:scale-110 duration-200 ease-in-out rounded-sm w-72"
+          />
         </div>
         <div className=" relative group shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-80 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#fea342]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
-          <img src={Ads3} alt="normadicchic" className="rounded-sm w-72" />
+          <img
+            src={Ads4}
+            alt="normadicchic"
+            className=" hover:scale-110 duration-200 ease-in-outrounded-sm w-72"
+          />
         </div>
         <div className=" relative group shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-80 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#fea342]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
-          <img src={Ads4} alt="normadicchic" className="rounded-sm w-72" />
-        </div>
-        {/* Fourth-Image */}
-        <div className=" relative group shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-80 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#fea342]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
-          <img src={Ad8} alt="normadicchic" className="rounded-sm w-72" />
+          <img
+            src={Ads3}
+            alt="normadicchic"
+            className="hover:scale-110 duration-200 ease-in-out rounded-sm w-72"
+          />
         </div>
 
         {/* Fourth-Image */}
         <div className=" relative group shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-80 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#fea342]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
+          <img
+            src={Ad8}
+            alt="normadicchic"
+            className="hover:scale-110 duration-200 ease-in-out rounded-sm w-72"
+          />
+        </div>
+
+        {/* Fourth-Image */}
+        <div className=" relative group shadow-black shadow-xl">
           <img
             src={normadicchic}
             alt="normadicchic"
-            className="rounded-sm w-72"
+            className="rounded-sm w-72 hover:scale-110 duration-200 ease-in-out"
           />
         </div>
         {/* Fourth-Image */}
         <div className=" relative group shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-80 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#fea342]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
-          <img src={Ad1} alt="normadicchic" className="rounded-sm w-72" />
+          <img
+            src={Ad1}
+            alt="normadicchic"
+            className="hover:scale-110 duration-200 ease-in-out rounded-sm w-72"
+          />
         </div>
         {/* Fourth-Image */}
         <div className=" relative group shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-80 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#fea342]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
-          <img src={Ad2} alt="normadicchic" className="rounded-sm w-72" />
+          <img
+            src={Ad2}
+            alt="normadicchic"
+            className="hover:scale-110 duration-200 ease-in-out rounded-sm w-72"
+          />
         </div>
         {/* First-Image */}
         <div className="relative shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-60 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#DB420D]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
           <img
             src={childofthesun}
             alt="childofthesun"
@@ -146,14 +103,6 @@ const Graphics = () => {
         </div>
         {/* Second-Image */}
         <div className="relative shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-70 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#FEB902]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
           <img
             src={FashionStyles}
             alt="FashionStyles"
@@ -162,14 +111,6 @@ const Graphics = () => {
         </div>
         {/* Third-Image */}
         <div className="relative shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-70 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#FC1624]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
           <img
             src={Headphones2}
             alt="Headphones2"
@@ -178,63 +119,43 @@ const Graphics = () => {
         </div>
         {/* Fourth-Image */}
         <div className=" relative group shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-80 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#fea342]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
-          <img src={Ad3} alt="normadicchic" className="rounded-sm w-72" />
+          <img
+            src={Ad3}
+            alt="normadicchic"
+            className="hover:scale-110 duration-200 ease-in-out rounded-sm w-72"
+          />
         </div>
         {/* Fourth-Image */}
         <div className=" relative group shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-80 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#fea342]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
-          <img src={Ad4} alt="normadicchic" className="rounded-sm w-72" />
+          <img
+            src={Ad4}
+            alt="normadicchic"
+            className="hover:scale-110 duration-200 ease-in-out rounded-sm w-72"
+          />
         </div>
         {/* Fourth-Image */}
         <div className=" relative group shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-80 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#fea342]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
-          <img src={Ad5} alt="normadicchic" className="rounded-sm w-72" />
+          <img
+            src={Ad5}
+            alt="normadicchic"
+            className="hover:scale-110 duration-200 ease-in-out rounded-sm w-72"
+          />
         </div>
         {/* Fourth-Image */}
         <div className=" relative group shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-80 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#fea342]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
-          <img src={Ad6} alt="normadicchic" className="rounded-sm w-72" />
+          <img
+            src={Ad6}
+            alt="normadicchic"
+            className="rounded-sm w-72 hover:scale-110 duration-200 ease-in-out"
+          />
         </div>
         {/* Fourth-Image */}
         <div className=" relative group shadow-black shadow-xl">
-          <div
-            className="absolute inset-0 flex items-center hover:opacity-80 opacity-0 duration-200 ease-in-out 
-             rounded-sm bg-gradient-to-t  from-[#fea342]  justify-center"
-          >
-            {/* <h1 className="text-white hover:text-[#3787ff]  duration-200 ease-in-out hover:bg-[#02265b]/50 px-16 rounded-lg py-2">
-              Visit
-            </h1> */}
-          </div>
-          <img src={Ad7} alt="normadicchic" className="rounded-sm w-72" />
+          <img
+            src={Ad7}
+            alt="normadicchic"
+            className="rounded-sm w-72 hover:scale-110 duration-200 ease-in-out"
+          />
         </div>
       </div>
     </div>
