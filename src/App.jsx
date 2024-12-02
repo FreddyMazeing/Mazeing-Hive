@@ -12,8 +12,9 @@ const App = () => {
       <div className="hidden">
         <Circles />
       </div>
-      <Hello />
+
       <Billbord />
+      <Hello />
       <Websites />
       <Graphics />
       <Footet />
