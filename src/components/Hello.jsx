@@ -3,7 +3,7 @@ import mazeingshoreel from "../assets/mazeingshoreel.webm";
 
 const Hello = () => {
   return (
-    <div className="max-w-full min-h-screen flex items-center justify-center md:mb-40 mb-10 mt-20">
+    <div className="max-w-full min-h-screen flex items-center justify-center md:mb-40 mb-10 mt-10">
       <div
         className="relative text-[#120c35] text-start  min-h-screen flex
        flex-col container items-center max-w-4xl mx-4 md:mx-20 justify-center"

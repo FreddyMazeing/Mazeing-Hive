@@ -12,8 +12,8 @@ const App = () => {
       <div className="hidden">
         <Circles />
       </div>
-      <Billbord />
       <Hello />
+      <Billbord />
       <Websites />
       <Graphics />
       <Footet />
